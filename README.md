@@ -4,11 +4,19 @@ Cleans input lists of ip addresses, ranges, cidr's, domains, etc, in as many for
 A few example formats you can input:
 
 8.8.8.8
+
 8.8.8.8/24
+
 8.8.8.8-255
+
 8.8.8.8 - 255
+
 8.8.8.8-8.8.8.255
+
 8.8.8.8 - 8.8.8.255
+
 8.8.8.8, 8.8.8.9/32, 8.8.8.10
+
 google.com
+
 https://google.com
